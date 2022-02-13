@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Aaron Christson</string>
+    <string name="yellow_star">Yellow Star String Resource</string>
+    <string name="bio">
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ut sapien posuere, ultricies erat eget, vehicula nulla. Etiam bibendum volutpat massa, a tempor ipsum tempus eget. In pulvinar urna congue ante maximus ornare. Vivamus justo arcu, gravida a hendrerit id, pretium nec libero. Phasellus at nibh lacus. Suspendisse dignissim nisl sit amet nisl varius, id varius orci condimentum. Aenean et elit at velit accumsan sagittis efficitur a magna. \n \n
+    Donec gravida convallis mattis. Etiam eget ipsum a diam dignissim dignissim. Integer eros erat, euismod ac libero vel, tincidunt tincidunt magna. In rhoncus enim ornare luctus sodales. Duis quis nisi fringilla, accumsan ipsum ac, lacinia mi. Fusce faucibus egestas urna quis efficitur. In eleifend nunc et est consectetur euismod. Mauris hendrerit interdum tortor ac vestibulum. Mauris vel rhoncus ex. Aliquam consequat ipsum quis nisl fringilla blandit. Maecenas a sapien eget justo lobortis dapibus. Sed at leo sodales ipsum condimentum sodales. Suspendisse aliquet nibh eu magna aliquam, in malesuada justo blandit. \n</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
